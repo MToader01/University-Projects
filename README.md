@@ -15,25 +15,25 @@ This repository contains a collection of university projects developed across va
    A Unity 3D game development project based on Unity’s tutorial. The project showcases gameplay mechanics such as character movement and environmental interaction in a haunted house setting.  
    - **Technologies**: Unity, C#, 3D Modeling, Unity Shaders  
    - **Features**: Character movement, interaction with the environment, game settings.  
-   [More Details](https://github.com/MToader01/HauntedHouseGame)
+   [More Details](https://github.com/MToader01/University-Projects/tree/main/HauntedHouseGame)
 
 3. **Python Compiler (Python)**  
    A Python-based compiler that includes components for lexical analysis, parsing, and interpretation. The project demonstrates how a compiler works from the ground up.  
    - **Technologies**: Python, Lexical Analysis, Parsing, Interpreter Design  
    - **Features**: Lexer, parser, interpreter, interactive shell.  
-   [More Details](https://github.com/MToader01/MiniCompiler)
+   [More Details](https://github.com/MToader01/University-Projects/tree/main/MiniCompiler)
 
 4. **Multi-Language E-commerce Web Application (ASP.NET MVC)**  
    A web-based e-commerce application that supports multiple languages. The project implements shopping cart functionality, user account management, and language management using resource files.  
    - **Technologies**: ASP.NET MVC, C#, Entity Framework, SQL Server, jQuery, Bootstrap  
    - **Features**: User login, shopping cart, multi-language support.  
-   [More Details](https://github.com/MToader01/ShopApp)
+   [More Details](https://github.com/MToader01/University-Projects/tree/main/ShopApp)
 
 5. **Static Routing and Subnetting Configuration (Cisco Packet Tracer)**  
    A network simulation project demonstrating static routing and subnetting across multiple routers and LANs. The project simulates a real-world networking scenario using Cisco Packet Tracer.  
    - **Technologies**: Cisco Packet Tracer, IP Subnetting, Static Routing  
    - **Features**: Configured static routes, subnetting plan, routing tables for R1 to R5.  
-   [More Details](https://github.com/MToader01/CiscoRouting)
+   [More Details](https://github.com/MToader01/University-Projects/tree/main/CiscoRouting)
 
 ## Installation
 Each project includes specific installation instructions in its respective README file. For general instructions:
