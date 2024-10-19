@@ -17,7 +17,7 @@ The project includes fully implemented prefabs, scenes, shaders, and textures, m
 ## Installation
 To run this project on your local machine:
 1. Clone the repository:
-git clone https://github.com/yourusername/JohnLemonHauntedHouse.git
+git clone https://github.com/MToader01/JohnLemonHauntedHouse.git
 2. Open the project in Unity 2021.x or later.
 3. Ensure all assets and packages are loaded.
 4. Click **Play** in the Unity Editor to run the project.
