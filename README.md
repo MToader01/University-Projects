@@ -9,7 +9,7 @@ This repository contains a collection of university projects developed across va
    A desktop application designed to manage animal shelters, allowing administrators to add, view, and manage animals and clients for an organized adoption process.  
    - **Technologies**: Java, Swing (Java GUI), OOP principles  
    - **Features**: Add animals and clients, list animals and clients, manage the adoption process.  
-   [More Details](https://github.com/MToader01/AnimalShelterManagementSystem)
+   [More Details](https://github.com/MToader01/University-Projects/tree/main/AnimalShelterManagementSystem)
 
 2. **John Lemon's Haunted House (Unity)**  
    A Unity 3D game development project based on Unity’s tutorial. The project showcases gameplay mechanics such as character movement and environmental interaction in a haunted house setting.  
