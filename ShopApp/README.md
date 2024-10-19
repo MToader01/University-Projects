@@ -17,7 +17,7 @@ The project is designed to showcase how to handle localization in a web applicat
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/MToader/ShopApp.git
+git clone https://github.com/MToader01/ShopApp.git
 2. Open the project in Visual Studio.
 3. Restore NuGet packages.
 4. Set up the database:
