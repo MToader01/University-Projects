@@ -1,0 +1,78 @@
+C:\Work\Umfst\Medii vizuale\2022\TestWebApplication1\Languages2\bin\Debug\Languages2.dll
+C:\Work\Umfst\Medii vizuale\2022\TestWebApplication1\Languages2\bin\Debug\Languages2.pdb
+C:\Work\Umfst\Medii vizuale\2022\TestWebApplication1\Languages2\obj\Debug\Languages2.csproj.AssemblyReference.cache
+C:\Work\Umfst\Medii vizuale\2022\TestWebApplication1\Languages2\obj\Debug\Languages2.csproj.CoreCompileInputs.cache
+C:\Work\Umfst\Medii vizuale\2022\TestWebApplication1\Languages2\obj\Debug\Languages2.dll
+C:\Work\Umfst\Medii vizuale\2022\TestWebApplication1\Languages2\obj\Debug\Languages2.pdb
+C:\Work\Umfst\Medii vizuale\2022\TestWebApplication1\Languages2\obj\Debug\Languages2.Resource.resources
+C:\Work\Umfst\Medii vizuale\2022\TestWebApplication1\Languages2\obj\Debug\Languages2.csproj.GenerateResource.cache
+C:\Work\Umfst\Medii vizuale\2022\TestWebApplication1\Languages2\bin\Debug\ro\Languages2.resources.dll
+C:\Work\Umfst\Medii vizuale\2022\TestWebApplication1\Languages2\obj\Debug\Languages2.Resource.ro.resources
+C:\Work\Umfst\Medii vizuale\2022\TestWebApplication1\Languages2\obj\Debug\ro\Languages2.resources.dll
+C:\Users\aleee\Desktop\TestWebApplication1\Languages2\bin\Debug\Languages2.dll
+C:\Users\aleee\Desktop\TestWebApplication1\Languages2\bin\Debug\Languages2.pdb
+C:\Users\aleee\Desktop\TestWebApplication1\Languages2\bin\Debug\ro\Languages2.resources.dll
+C:\Users\aleee\Desktop\TestWebApplication1\Languages2\obj\Debug\Languages2.csproj.AssemblyReference.cache
+C:\Users\aleee\Desktop\TestWebApplication1\Languages2\obj\Debug\Languages2.Resource.resources
+C:\Users\aleee\Desktop\TestWebApplication1\Languages2\obj\Debug\Languages2.Resource.ro.resources
+C:\Users\aleee\Desktop\TestWebApplication1\Languages2\obj\Debug\Languages2.csproj.GenerateResource.cache
+C:\Users\aleee\Desktop\TestWebApplication1\Languages2\obj\Debug\Languages2.csproj.CoreCompileInputs.cache
+C:\Users\aleee\Desktop\TestWebApplication1\Languages2\obj\Debug\ro\Languages2.resources.dll
+C:\Users\aleee\Desktop\TestWebApplication1\Languages2\obj\Debug\Languages2.dll
+C:\Users\aleee\Desktop\TestWebApplication1\Languages2\obj\Debug\Languages2.pdb
+C:\Users\pasti\Desktop\Proiect3\Languages2\bin\Debug\Languages2.dll
+C:\Users\pasti\Desktop\Proiect3\Languages2\bin\Debug\Languages2.pdb
+C:\Users\pasti\Desktop\Proiect3\Languages2\bin\Debug\ro\Languages2.resources.dll
+C:\Users\pasti\Desktop\Proiect3\Languages2\obj\Debug\Languages2.csproj.AssemblyReference.cache
+C:\Users\pasti\Desktop\Proiect3\Languages2\obj\Debug\Languages2.Resource.resources
+C:\Users\pasti\Desktop\Proiect3\Languages2\obj\Debug\Languages2.Resource.ro.resources
+C:\Users\pasti\Desktop\Proiect3\Languages2\obj\Debug\Languages2.csproj.GenerateResource.cache
+C:\Users\pasti\Desktop\Proiect3\Languages2\obj\Debug\Languages2.csproj.CoreCompileInputs.cache
+C:\Users\pasti\Desktop\Proiect3\Languages2\obj\Debug\ro\Languages2.resources.dll
+C:\Users\pasti\Desktop\Proiect3\Languages2\obj\Debug\Languages2.dll
+C:\Users\pasti\Desktop\Proiect3\Languages2\obj\Debug\Languages2.pdb
+C:\Users\aleee\Desktop\Facultate\Proiect3\Languages2\bin\Debug\Languages2.dll
+C:\Users\aleee\Desktop\Facultate\Proiect3\Languages2\bin\Debug\Languages2.pdb
+C:\Users\aleee\Desktop\Facultate\Proiect3\Languages2\bin\Debug\ro\Languages2.resources.dll
+C:\Users\aleee\Desktop\Facultate\Proiect3\Languages2\obj\Debug\Languages2.csproj.AssemblyReference.cache
+C:\Users\aleee\Desktop\Facultate\Proiect3\Languages2\obj\Debug\Languages2.Resource.resources
+C:\Users\aleee\Desktop\Facultate\Proiect3\Languages2\obj\Debug\Languages2.Resource.ro.resources
+C:\Users\aleee\Desktop\Facultate\Proiect3\Languages2\obj\Debug\Languages2.csproj.GenerateResource.cache
+C:\Users\aleee\Desktop\Facultate\Proiect3\Languages2\obj\Debug\Languages2.csproj.CoreCompileInputs.cache
+C:\Users\aleee\Desktop\Facultate\Proiect3\Languages2\obj\Debug\ro\Languages2.resources.dll
+C:\Users\aleee\Desktop\Facultate\Proiect3\Languages2\obj\Debug\Languages2.dll
+C:\Users\aleee\Desktop\Facultate\Proiect3\Languages2\obj\Debug\Languages2.pdb
+C:\Users\pasti\Desktop\Proiect3\Languages2\obj\Debug\Languages2.Resource.de.resources
+C:\Users\pasti\Desktop\Proiect3\Languages2\bin\Debug\de\Languages2.resources.dll
+C:\Users\pasti\Desktop\Proiect3\Languages2\obj\Debug\de\Languages2.resources.dll
+C:\Users\aleee\Desktop\Facultate\Proiect3\Languages2\bin\Debug\de\Languages2.resources.dll
+C:\Users\aleee\Desktop\Facultate\Proiect3\Languages2\obj\Debug\Languages2.Resource.de.resources
+C:\Users\aleee\Desktop\Facultate\Proiect3\Languages2\obj\Debug\de\Languages2.resources.dll
+D:\Facultate\Modul II\Medii Vizuale\Proiect3\Languages\bin\Debug\Languages2.dll
+D:\Facultate\Modul II\Medii Vizuale\Proiect3\Languages\bin\Debug\Languages2.pdb
+D:\Facultate\Modul II\Medii Vizuale\Proiect3\Languages\bin\Debug\de\Languages2.resources.dll
+D:\Facultate\Modul II\Medii Vizuale\Proiect3\Languages\bin\Debug\ro\Languages2.resources.dll
+D:\Facultate\Modul II\Medii Vizuale\Proiect3\Languages\obj\Debug\Languages2.csproj.AssemblyReference.cache
+D:\Facultate\Modul II\Medii Vizuale\Proiect3\Languages\obj\Debug\Languages2.Resource.resources
+D:\Facultate\Modul II\Medii Vizuale\Proiect3\Languages\obj\Debug\Languages2.Resource.de.resources
+D:\Facultate\Modul II\Medii Vizuale\Proiect3\Languages\obj\Debug\Languages2.Resource.ro.resources
+D:\Facultate\Modul II\Medii Vizuale\Proiect3\Languages\obj\Debug\Languages2.csproj.GenerateResource.cache
+D:\Facultate\Modul II\Medii Vizuale\Proiect3\Languages\obj\Debug\Languages2.csproj.CoreCompileInputs.cache
+D:\Facultate\Modul II\Medii Vizuale\Proiect3\Languages\obj\Debug\de\Languages2.resources.dll
+D:\Facultate\Modul II\Medii Vizuale\Proiect3\Languages\obj\Debug\ro\Languages2.resources.dll
+D:\Facultate\Modul II\Medii Vizuale\Proiect3\Languages\obj\Debug\Languages2.dll
+D:\Facultate\Modul II\Medii Vizuale\Proiect3\Languages\obj\Debug\Languages2.pdb
+C:\Users\pasti\Desktop\folders with folders\Medii Vizuale\Medii Vizuale\Proiect3\Languages\bin\Debug\Languages2.dll
+C:\Users\pasti\Desktop\folders with folders\Medii Vizuale\Medii Vizuale\Proiect3\Languages\bin\Debug\Languages2.pdb
+C:\Users\pasti\Desktop\folders with folders\Medii Vizuale\Medii Vizuale\Proiect3\Languages\bin\Debug\de\Languages2.resources.dll
+C:\Users\pasti\Desktop\folders with folders\Medii Vizuale\Medii Vizuale\Proiect3\Languages\bin\Debug\ro\Languages2.resources.dll
+C:\Users\pasti\Desktop\folders with folders\Medii Vizuale\Medii Vizuale\Proiect3\Languages\obj\Debug\Languages2.csproj.AssemblyReference.cache
+C:\Users\pasti\Desktop\folders with folders\Medii Vizuale\Medii Vizuale\Proiect3\Languages\obj\Debug\Languages2.Resource.resources
+C:\Users\pasti\Desktop\folders with folders\Medii Vizuale\Medii Vizuale\Proiect3\Languages\obj\Debug\Languages2.Resource.de.resources
+C:\Users\pasti\Desktop\folders with folders\Medii Vizuale\Medii Vizuale\Proiect3\Languages\obj\Debug\Languages2.Resource.ro.resources
+C:\Users\pasti\Desktop\folders with folders\Medii Vizuale\Medii Vizuale\Proiect3\Languages\obj\Debug\Languages2.csproj.GenerateResource.cache
+C:\Users\pasti\Desktop\folders with folders\Medii Vizuale\Medii Vizuale\Proiect3\Languages\obj\Debug\Languages2.csproj.CoreCompileInputs.cache
+C:\Users\pasti\Desktop\folders with folders\Medii Vizuale\Medii Vizuale\Proiect3\Languages\obj\Debug\de\Languages2.resources.dll
+C:\Users\pasti\Desktop\folders with folders\Medii Vizuale\Medii Vizuale\Proiect3\Languages\obj\Debug\ro\Languages2.resources.dll
+C:\Users\pasti\Desktop\folders with folders\Medii Vizuale\Medii Vizuale\Proiect3\Languages\obj\Debug\Languages2.dll
+C:\Users\pasti\Desktop\folders with folders\Medii Vizuale\Medii Vizuale\Proiect3\Languages\obj\Debug\Languages2.pdb

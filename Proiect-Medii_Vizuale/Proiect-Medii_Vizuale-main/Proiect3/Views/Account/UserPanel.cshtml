@@ -1,0 +1,16 @@
+﻿@model Proiect3.Models.UserModel
+
+@{
+    ViewBag.Title = "UserPanel";
+}
+<style>
+    body {
+        background-image: url(../../Resurse/background.jpg);
+        background-size: cover;
+    }
+</style>
+
+
+<h3>Esti logat ca: @LoginState.Username</h3>
+
+<p class="btn btn-default">@Html.ActionLink("Disconnect", "Disconnect")</p>
